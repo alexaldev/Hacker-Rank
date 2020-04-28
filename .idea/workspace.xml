@@ -17,4 +17,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1082" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
 </project>
